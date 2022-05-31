@@ -14,4 +14,4 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roslinmahmud/)
 
 <!-- Top Language -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roslinmahmud)](https://github.com/roslinmahmud/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roslinmahmud&layout=compact&langs_count=10)](https://github.com/roslinmahmud/github-readme-stats)
