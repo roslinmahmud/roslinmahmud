@@ -23,7 +23,7 @@
 -->
 
 <a href="https://github.com/roslinmahmud?tab=repositories">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roslinmahmud&layout=compact&langs_count=10&hide=html" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roslinmahmud" />
 </a>
 
 <a href="https://github.com/roslinmahmud">
