@@ -22,8 +22,12 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=roslinmahmud&show_icons=true) 
 -->
 
+<a href="https://github.com/roslinmahmud">
+  <img height="136px" align="center" style="margin:0.5rem" src="https://stackoverflow-card.vercel.app/?userID=8028924"/>
+</a>
+
 <a href="https://github.com/roslinmahmud?tab=repositories">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roslinmahmud" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roslinmahmud&layout=compact&langs_count=4" />
 </a>
 
 <a href="https://github.com/roslinmahmud">
