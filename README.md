@@ -22,14 +22,14 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=roslinmahmud&show_icons=true) 
 -->
 
-<a href="https://stackoverflow.com/users/8028924">
-  <img height="136px" align="center" style="margin:0.5rem" src="https://stackoverflow-card.vercel.app/?userID=8028924"/>
-</a>
-
 <a href="https://github.com/roslinmahmud?tab=repositories">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roslinmahmud&layout=compact&langs_count=4" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roslinmahmud&layout=compact&langs_count=8" />
 </a>
 
 <a href="https://github.com/roslinmahmud">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=roslinmahmud&show_icons=true&line_height=27&count_private=true" alt="Roslin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=roslinmahmud&show_icons=true&line_height=24&count_private=true" alt="Roslin's GitHub Stats" />
+</a>
+
+<a href="https://stackoverflow.com/users/8028924">
+  <img height="144px" align="center" src="https://stackoverflow-card.vercel.app/?userID=8028924"/>
 </a>
