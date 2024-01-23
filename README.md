@@ -23,11 +23,11 @@
 -->
 
 <a href="https://github.com/roslinmahmud?tab=repositories">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roslinmahmud&layout=compact&langs_count=8" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roslinmahmud&layout=compact&langs_count=8&theme=transparent" />
 </a>
 
 <a href="https://github.com/roslinmahmud">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=roslinmahmud&show_icons=true&line_height=24&count_private=true" alt="Roslin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=roslinmahmud&show_icons=true&line_height=24&count_private=true&theme=transparent" alt="Roslin's GitHub Stats" />
 </a>
 
 <a href="https://stackoverflow.com/users/8028924">
