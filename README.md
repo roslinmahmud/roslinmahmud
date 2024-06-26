@@ -2,7 +2,7 @@
 **roslinmahmud/roslinmahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-- 👋 Hi, I’m [Roslin Mahmud Joy](https://twitter.com/roslinmahmud) 
+- 👋 Hi, I’m Roslin Mahmud Joy 
 - 🔭 I’m currently working on ASP.NET Core Web API & Angular
 - 🌱 I’m currently learning Software Engineering 
 - 👀 I’m interested in Web Application Development & Machine Learning
