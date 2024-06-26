@@ -13,7 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 -->
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roslinmahmud/)
+<!-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roslinmahmud/) -->
 
 
 <!--
