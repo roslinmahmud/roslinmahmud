@@ -7,7 +7,7 @@
 
 ### Hi 👋, I'm Roslin!
 
-- Master’s degree student in Data Science at the University of Helsinki
+- Master’s student in Data Science at the University of Helsinki
 - Interested in AI/ML and Distributed systems Research. 
 - Backend Software Engineer
 
