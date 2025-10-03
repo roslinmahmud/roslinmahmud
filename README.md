@@ -26,8 +26,11 @@
 <a href="https://github.com/roslinmahmud">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=roslinmahmud&show_icons=true&line_height=24&count_private=true&theme=transparent" alt="Roslin's GitHub Stats" />
 </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roslinmahmud&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
 -->
 
 <a href="https://stackoverflow.com/users/8028924">
   <img height="144px" align="center" src="https://stackoverflow-card.vercel.app/?userID=8028924"/>
 </a>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roslinmahmud" />
